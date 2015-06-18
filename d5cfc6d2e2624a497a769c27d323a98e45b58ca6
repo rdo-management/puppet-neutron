@@ -1,0 +1,7 @@
+Code-Review+2: Gabriele Cerami <gcerami@redhat.com>
+Verified+1: Gabriele Cerami <gcerami@redhat.com>
+Submitted-by: Gabriele Cerami <gcerami@redhat.com>
+Submitted-at: Thu, 18 Jun 2015 18:24:11 +0200
+Reviewed-on: https://review.gerrithub.io/236934
+Project: rdo-puppet-modules/puppet-neutron
+Branch: refs/heads/tag-upstream-master-0d31b8f804ac9d9a46f0a66f44d09ff4ea2e3d03
