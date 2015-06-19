@@ -1,0 +1,7 @@
+Verified+1: Gabriele Cerami <gcerami@redhat.com>
+Code-Review+2: Gabriele Cerami <gcerami@redhat.com>
+Submitted-by: Gabriele Cerami <gcerami@redhat.com>
+Submitted-at: Fri, 19 Jun 2015 12:55:26 +0200
+Reviewed-on: https://review.gerrithub.io/237063
+Project: rdo-puppet-modules/puppet-neutron
+Branch: refs/heads/master-patches
