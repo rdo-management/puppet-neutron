@@ -1,0 +1,7 @@
+Code-Review+2: RDO CI Service Account <openstack-ci-service@redhat.com>
+Verified+1: RDO CI Service Account <openstack-ci-service@redhat.com>
+Submitted-by: RDO CI Service Account <openstack-ci-service@redhat.com>
+Submitted-at: Sat, 07 Nov 2015 08:25:25 +0100
+Reviewed-on: https://review.gerrithub.io/251661
+Project: rdo-puppet-modules/puppet-neutron
+Branch: refs/heads/recomb-original-master-90a989883307ce5ac28d3e9e8bdab4b402a13474
